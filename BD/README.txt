@@ -1,0 +1,1 @@
+Anexo dos archivos con los mismos datos de ejemplo pero extension diferente, uno .JSON (VisualStudioCode) y otro .CSV (Excel)

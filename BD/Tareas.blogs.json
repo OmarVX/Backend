@@ -1,0 +1,64 @@
+[{
+  "_id": {
+    "$oid": "65814e47cfbae3636e81da12"
+  },
+  "title": "Compra despensa",
+  "content": "* Leche\n* Mayonesa\n* Pan",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "658154cf3d2855f427baeba1"
+  },
+  "title": "Gym",
+  "content": "Pagar mensualidad gimnasio $316",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6582300e47c9ca1bdd103ebc"
+  },
+  "title": "Tarjeta",
+  "content": "Ir al banco a activar mi tarjeta de débito",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "65847497ad689d0de826449f"
+  },
+  "title": "Comer pizza",
+  "content": "Ir al Plaza Americas a comer pizza con mis amigos:)",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "658474ffad689d0de82644a4"
+  },
+  "title": "tarea casi final",
+  "content": "casi terminamos aguanta un poco más",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "65848761fe76eec0e8b7e32c"
+  },
+  "title": "Plan TELCEL",
+  "content": "Cambiarme de plan de celular a TELCEL - 25/dic/2023",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6584dd3ccc0cde7de3394284"
+  },
+  "title": "proyecto",
+  "content": "Terminar el proyecto antes del 26 de diciembre - Sistemas Web",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6584f90ed7eadf98fabad020"
+  },
+  "title": "Pasear",
+  "content": "Sacar a pasear al perro a las 3 pm mañana 02 de enero",
+  "__v": 0
+}]
